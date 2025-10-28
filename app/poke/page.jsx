@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import PokemonTable from "../component/table";
+import PokemonTable from "../component/Table";
 import PokemonDetails from "../component/Details";
 import Loader from "../component/Loader";
 
